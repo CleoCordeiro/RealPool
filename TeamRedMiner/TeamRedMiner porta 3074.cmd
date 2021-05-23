@@ -1,0 +1,1 @@
+teamredminer.exe -a ethash -o stratum+tcp://realpool.com.br:3073 -u WALLET_ADDRESS.WORKER_NAME -p x --eth_stratum_mode=nicehash
